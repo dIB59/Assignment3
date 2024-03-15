@@ -1,27 +1,4 @@
-/.vs/Assignment 3/DesignTimeBuild/.dtbcache.v2
-/obj/Debug/net8.0-windows/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
-/.vs/Assignment 3/v17/.suo
-/.vs/Assignment 3/FileContentIndex/962dd4ed-95b2-4d62-bcd0-2cd57a28515f.vsidx
-/.vs/Assignment 3/FileContentIndex/1635b588-d8d5-47ff-a90d-048a7e5ce1a5.vsidx
-/.vs/Assignment 3/FileContentIndex/7274ff78-d063-42b7-8329-b12c87235ef5.vsidx
-/.vs/Assignment 3/FileContentIndex/09204adf-5ded-4d7e-b292-78f877605122.vsidx
-/.vs/Assignment 3/FileContentIndex/a290938a-92a0-4a34-b13f-7a8ba20bbd5f.vsidx
-/obj/Debug/net8.0-windows/apphost.exe
-/obj/Debug/net8.0-windows/Assignment 3.csproj.BuildWithSkipAnalyzers
-/obj/Debug/net8.0-windows/Assignment 3.csproj.CoreCompileInputs.cache
-/obj/Debug/net8.0-windows/Assignment 3.csproj.FileListAbsolute.txt
-/obj/Debug/net8.0-windows/Assignment 3.csproj.GenerateResource.cache
-/obj/Assignment 3.csproj.nuget.dgspec.json
-/.vs/Assignment 3/v17/.futdcache.v2
-/bin/Debug/net8.0-windows/Assignment 3.deps.json
-/obj/Debug/net8.0-windows/Assignment 3.designer.deps.json
-/obj/Debug/net8.0-windows/Assignment 3.designer.runtimeconfig.json
-/bin/Debug/net8.0-windows/Assignment 3.dll
-/obj/Debug/net8.0-windows/ref/Assignment 3.dll
-/obj/Debug/net8.0-windows/refint/Assignment 3.dll
-/obj/Debug/net8.0-windows/Assignment 3.dll
-/bin/Debug/net8.0-windows/Assignment 3.exe
-/bin/**
-/obj/**
-.idea/**
+/bin
+/obj
+.idea
 .vs
